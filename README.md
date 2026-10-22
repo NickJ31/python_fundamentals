@@ -43,4 +43,4 @@ Zero interest                         0         Accepted
 Empty name                           Blank      Error and retry
 
 ## Conclusion
-As someone who doesn't use code alot to create programs i have learned that it is crucial for strings to be precise in all aspects. while creating this I encounted errors from indenting too far, putting the wrong things in strings and getting frustrated because it didn't work the first time. It has taught me to be patient with it and fine comb through and reach out to others or use Gen AI to point out something i didnt understand that casues an error. 
+This program allows the user to input their values which consists of principal amount, interest rate percentage, name and time as how long it the payments will last. It will complete simple math to give you an interest amount out come and add the interest to your principal.
